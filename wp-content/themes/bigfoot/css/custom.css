@@ -1,0 +1,100 @@
+.featured-image {
+    margin-bottom: 80px !important;
+}
+
+p {
+    font-family: 'Gotham A', 'Gotham B' !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+    font-size: 15px !important;
+    line-height: 24px !important;
+}
+
+a {
+    font-family: 'Gotham A', 'Gotham B' !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+    font-size: 15px !important;
+    line-height: 22px !important;
+}
+
+
+h1 {
+    font-family: 'Gotham A', 'Gotham B' !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+    font-size: 48px !important;
+    line-height: 52px !important;
+    text-transform: uppercase !important;
+    color: #b5a635 !important;
+}
+
+h2 {
+    font-family: 'Gotham A', 'Gotham B' !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+    font-size: 36px !important;
+    line-height: 40px !important;
+    color: #6c7846 !important;
+}
+
+h3 {
+    font-family: 'Gotham A', 'Gotham B' !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+    font-size: 30px !important;
+    line-height: 32px !important;
+    color: #6c7846 !important;
+    text-transform: none !important;
+}
+
+h4 {
+    font-family: 'Gotham A', 'Gotham B' !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+    font-size: 24px !important;
+    line-height: 26px !important;
+    color: #b5a635 !important;
+}
+
+h5 {
+    font-family: 'Gotham A', 'Gotham B' !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+    font-size: 18px !important;
+    line-height: 24px !important;
+    color: #b5a635 !important;
+}
+
+h6 {
+    font-family: 'Gotham A', 'Gotham B' !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+    font-size: 18px !important;
+    line-height: 24px !important;
+    color: #ffffff !important;
+    text-transform: uppercase;
+}
+
+.title-footer {
+    color: #b5a635 !important;
+    background: transparent;
+}
+
+.text-footer {
+    color: #ffffff !important;
+    background: transparent;
+}
+
+.read-more {
+    float: right;
+    margin-right: 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    color: #ffffff !important;
+    background: transparent;
+}
+
+.gm-style-cc {
+    display: none;
+}

@@ -1,0 +1,62 @@
+.callout {
+    width: 400px;
+    border: 3px #ffffff solid;
+    padding: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+    display: inline;
+    position: relative;
+}
+
+@media screen and (max-width: 480px) {
+    .callout {
+        display: none;
+    }
+}
+
+.title-home {
+    font-family: 'Gotham A', 'Gotham B' !important;
+    font-weight: 600 !important;
+    font-style: normal !important;
+    font-size: 24px !important;
+    line-height: 26px !important;
+    color: #ffffff !important;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    background: transparent;
+}
+
+.text-home {
+    font-family: 'Gotham A', 'Gotham B' !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+    font-size: 18px !important;
+    line-height: 24px !important;
+    color: #ffffff;
+}
+
+.read-more {
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+    color: #ffffff;
+    font-family: 'Crimson Text', serif !important;
+    font-weight: 400 !important;
+    font-style: italic !important;
+    background: transparent;
+}
+
+.main-navigation {
+
+    padding: 0 10px !important;
+
+}
+
+a {
+    font-family: 'Gotham A', 'Gotham B' !important;
+    font-weight: 700 !important;
+    font-style: normal !important;
+    font-size: 15px !important;
+    line-height: 22px !important;
+}
